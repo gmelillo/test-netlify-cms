@@ -50,7 +50,7 @@
     "url-loader": "^1.0.0",
     "webpack": "^3.0.0",
     "whatwg-fetch": "^3.0.0",
-    "snyk": "^1.197.0"
+    "snyk": "^1.199.2"
   },
   "devDependencies": {
     "gulp-inject": "^5.0.3",
