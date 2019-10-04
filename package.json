@@ -45,7 +45,7 @@
     "postcss-import": "^12.0.0",
     "postcss-loader": "^3.0.0",
     "postcss-uncss": "^0.17.0",
-    "react": "16.10.1",
+    "react": "16.10.2",
     "uncss": "^0.17.2",
     "url-loader": "^2.1.0",
     "webpack": "^4.41.0",
