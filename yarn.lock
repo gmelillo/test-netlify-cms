@@ -9533,17 +9533,17 @@ supports-color@^6.1.0:
   dependencies:
     has-flag "^3.0.0"
 
-svg-baker-runtime@1.4.1:
-  version "1.4.1"
-  resolved "https://registry.yarnpkg.com/svg-baker-runtime/-/svg-baker-runtime-1.4.1.tgz#d3f77dffdf1f1a8b8f1e84ef67d2c1b53d60d770"
+svg-baker-runtime@^1.4.3:
+  version "1.4.3"
+  resolved "https://registry.yarnpkg.com/svg-baker-runtime/-/svg-baker-runtime-1.4.3.tgz#8ec035daf3af4abe7e788120868ebbf84a34468f"
   dependencies:
     deepmerge "1.3.2"
     mitt "1.1.2"
-    svg-baker "^1.4.0"
+    svg-baker "^1.5.0"
 
-svg-baker@^1.4.0, svg-baker@^1.4.1:
-  version "1.4.1"
-  resolved "https://registry.yarnpkg.com/svg-baker/-/svg-baker-1.4.1.tgz#6071edef6e99b12af87e655024c154d066e1ad2f"
+svg-baker@^1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/svg-baker/-/svg-baker-1.5.0.tgz#e94e75523d9303e9a2b3448987080d966cb90af4"
   dependencies:
     bluebird "^3.5.0"
     clone "^2.1.1"
@@ -9559,9 +9559,9 @@ svg-baker@^1.4.0, svg-baker@^1.4.1:
     query-string "^4.3.2"
     traverse "^0.6.6"
 
-svg-sprite-loader@^4.1.6:
-  version "4.1.6"
-  resolved "https://registry.yarnpkg.com/svg-sprite-loader/-/svg-sprite-loader-4.1.6.tgz#ca03d51201e326c1c018389c81d5b0eb78dc01de"
+svg-sprite-loader@^4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/svg-sprite-loader/-/svg-sprite-loader-4.2.0.tgz#580c857d394b8c0a3ddb4447ed2dbb4d24ce8303"
   dependencies:
     bluebird "^3.5.0"
     deepmerge "1.3.2"
@@ -9569,8 +9569,8 @@ svg-sprite-loader@^4.1.6:
     escape-string-regexp "1.0.5"
     html-webpack-plugin "^3.2.0"
     loader-utils "^1.1.0"
-    svg-baker "^1.4.1"
-    svg-baker-runtime "1.4.1"
+    svg-baker "^1.5.0"
+    svg-baker-runtime "^1.4.3"
     url-slug "2.0.0"
 
 svgo@^1.0.0, svgo@^1.2.1:
