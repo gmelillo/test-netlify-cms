@@ -48,7 +48,7 @@
     "react": "16.13.1",
     "uncss": "^0.17.3",
     "url-loader": "^4.0.0",
-    "webpack": "^4.42.0",
+    "webpack": "^4.42.1",
     "whatwg-fetch": "^3.0.0",
     "snyk": "^1.305.0"
   },
